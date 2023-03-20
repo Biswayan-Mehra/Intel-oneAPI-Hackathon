@@ -6,7 +6,7 @@ Team ARCHANGELS
 1. CHRIS THOMAS VARGHESE - URK21CS1023
 2. BISWAYAN MEHRA - URK21CS1004
 3. ALAN BABU - URK21CS1041
-4. VIGNESH RAMDAS - URK21CS2039
+4. VIGNESH SASIKUMAR - URK21CS2039
 
 **Overview**
 The goal of this project is to build a prototype of a prosthetic arm that can be controlled using advanced algorithms, with a focus on showcasing the use of Intel's oneAPI toolkit. The project will involve developing a mechanical arm prototype and a software interface that allows users to control the arm movements using electroencephalography (EEG) signals.
