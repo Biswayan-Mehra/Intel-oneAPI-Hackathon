@@ -21,13 +21,17 @@ In conclusion, building a prosthetic arm using advanced algorithms and Intel's o
 
 ## Prerequisites ##
 
+> ### HARDWARE- ###
+
 | Components | Description |
 | ---------- | ----------- |
 | Raspberry Pi | The Raspberry Pi is a very cheap computer that runs Linux, but it also provides a set of GPIO (general purpose input/output) pins, allowing you to control electronic components for physical computing and explore the Internet of Things (IoT). |
 | Servo Motors | Content Cell |
 | Jumper Wires | Content Cell |
 
+> ### SOFTWARE- ###
+software used for 3D model is [Autodesk Fusion 360](https://www.autodesk.in/).
 
-
+software used for Sclicing is [Creality Sclicer](https://www.creality.com/).
 
 
