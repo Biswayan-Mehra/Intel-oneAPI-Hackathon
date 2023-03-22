@@ -1,5 +1,7 @@
 # Intel-oneAPI-Hackathon #
 
+## Project Title - Advanced Prosthetic Arm
+
 
 ## Overview ##
 
@@ -73,10 +75,10 @@ There are a total of 5 motors to control the fingers that are made to work in a 
 
 Our team comprised of Developers with expertise in the Internet of Things, software development, design, and mechanical engineering were involved in our project. We as a team collaborated closely to create a prototype of the prosthetic arm, design and implement the software interface, and test the apparatus to make sure it is secure and useful for people who have lost their arms.
 
-3D designing and Mechanics- @Alan7149
-Software development - @Biswayan-Mehra
-IoT and Hardware development - @chris-x0
-rendering and editing - @
+- IoT and Hardware development - @chris-x0
+- Software development - @Biswayan-Mehra
+- 3D designing and Mechanics- @Alan7149
+- rendering and editing - @
 
 ## Conclusion ##
 
