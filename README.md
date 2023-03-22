@@ -38,7 +38,8 @@ In conclusion, building a prosthetic arm using advanced algorithms and Intel's o
 
 ## The 3D Model ##
 
-![WhatsApp Image 2023-03-22 at 20 25 04](https://user-images.githubusercontent.com/108832092/226945619-c46db4d9-8ddf-4b12-b073-fab33d913ff6.jpg)![3d palm](https://user-images.githubusercontent.com/108832092/226946628-cf15ab71-9686-4260-833b-1349b726387b.jpg)
+![WhatsApp Image 2023-03-22 at 20 25 04](https://user-images.githubusercontent.com/108832092/226945619-c46db4d9-8ddf-4b12-b073-fab33d913ff6.jpg)![3d palm (1)](https://user-images.githubusercontent.com/108832092/226949969-0f975b8a-c520-4858-8f4b-444e74b52aa1.jpg)
+
 
 ## Working ##
 
