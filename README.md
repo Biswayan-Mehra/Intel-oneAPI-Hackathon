@@ -49,3 +49,32 @@ There are a total of 5 motors to control the fingers that are made to work in a 
 ![Screenshot 2023-03-22 202015](https://user-images.githubusercontent.com/108832092/226943048-13dda4df-595a-47b7-a9d8-e86a806f05a4.png)
 
 
+
+## Algorithm ##
+
+
+1. Import required libraries: "time", onedire.eneapi", "pygame".
+
+2. Define the GPIO pins for the servos.
+
+3. Initialize the GPIO.
+
+4. Initialize the PWM objects for the servos and set their frequency and enable them.
+
+5. Define a function 'set_angle' to set the angle of a servo based on the duty cycle of the PWM signal. 
+
+6. Define the limits and initial angles for the servos.
+
+7. Define the speed and increment for keyboard controls.
+
+8. Initialize Pygame and set up keyboard input.
+
+9. Enter a main loop to read keyboard input and set servo angles:
+
+
+
+## External Links ##
+
+> [Medium](https://medium.com/@alanbabu_1572/real-life-applications-of-our-prosthetic-arm-technology-672516dcf83c)
+
+
