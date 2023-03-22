@@ -33,6 +33,8 @@ The code used to develop the software interface and to control the prosthetic ar
 - OS on the raspberry pi [Raspbian OS](https://www.raspberrypi.com/).
 - packages and modules imported from [Intel OneAPI Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/).
 
+> #### System Studio toolkit- ####
+  A comprehensive collection of software development tools for embedded and system-level applications is the Intel System Studio toolkit. The 1-Wire communication protocol, which is frequently used in embedded systems for low-speed data transfer and communication with sensors, memory devices, and other peripherals, is supported by the Intel onewire package.
 
 ## The 3D Model ##
 
@@ -82,11 +84,12 @@ Our team comprised of Developers with expertise in the Internet of Things, softw
 
 ## Conclusion ##
 
-In conclusion, creating a prosthetic arm for an Intel oneAPI Hackathon with a focus on code sharing using cutting-edge algorithms and Intel's oneAPI toolkit is an exciting project that can advance the field of prosthetics and machine learning. The project will involve creating a prototype of the prosthetic arm, putting it into use, creating a software interface, and sharing the source code to promote cooperation and knowledge sharing. It will require a team of experts with a focus on open-source software. The team will be able to create a high-performance prosthetic arm that reacts precisely and quickly to user commands thanks to the use of EEG signals and the Intel oneAPI toolkit.
+In conclusion, creating a prosthetic arm for an Intel oneAPI Hackathon with a focus on code sharing using cutting-edge algorithms and Intel's oneAPI system studio toolkit is an exciting project that can advance the field of prosthetics and machine learning. The project will involve creating a prototype of the prosthetic arm, putting it into use, creating a software interface, and sharing the source code to promote cooperation and knowledge sharing. It will require a team of experts with a focus on open-source software. The team will be able to create a high-performance prosthetic arm that reacts precisely and quickly to user commands thanks to the use of EEG signals and the Intel oneAPI system studio toolkit.
 
 ## External Links ##
 
 > [Medium](https://medium.com/@alanbabu_1572/real-life-applications-of-our-prosthetic-arm-technology-672516dcf83c)
-> [Youtube]()
+
+> [Simulation](https://drive.google.com/drive/folders/1--UL7a_fyI5Prou5QgCyqTh-NHKdYu6i)
 
 
