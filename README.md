@@ -40,7 +40,8 @@ In conclusion, building a prosthetic arm using advanced algorithms and Intel's o
 The prosthetic arm works on the signals that are transmitted from the user. The signals are then processed and converted into pulses by the raspberry pi for the servos to move accordingly. 
 There are a total of 5 motors to control the fingers that are made to work in a systematic manner to perform actions that can be done by a normal human hand.
 
-[image github.pdf](https://github.com/Biswayan-Mehra/Intel-oneAPI-Hackathon/files/11041317/image.github.pdf)
+
+![Screenshot 2023-03-22 202015](https://user-images.githubusercontent.com/108832092/226943048-13dda4df-595a-47b7-a9d8-e86a806f05a4.png)
 
 
 
