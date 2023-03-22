@@ -53,7 +53,6 @@ There are a total of 5 motors to control the fingers that are made to work in a 
 
 ## Algorithm ##
 
-
 1. Import required libraries: "time", onedire.eneapi", "pygame".
 
 2. Define the GPIO pins for the servos.
@@ -72,6 +71,22 @@ There are a total of 5 motors to control the fingers that are made to work in a 
 
 9. Enter a main loop to read keyboard input and set servo angles:
 
+      a. Handle Pygame events: Quit event, Keydown event, Keyup event.
+
+      b. Update servo angles based on keyboard input.
+
+      c. Draw visualization of servo angles on Pygame window.
+
+      d. Update Pygame display.
+
+      e. Wait for next update.
+
+      f. Read the keyboard input and set the servo angles using the `set_angle' function.
+
+10. Handle a keyboard interrupt.
+
+11. Clean up GPIO resources.
+
 
 ## Our Team ##
 
@@ -80,7 +95,7 @@ Our team comprised of Developers with expertise in the Internet of Things, softw
 - IoT and Hardware development - @chris-x0
 - Software development - @Biswayan-Mehra
 - 3D designing and Mechanics- @Alan7149
-- rendering and editing - @
+- Rendering and Editing - Vigneshsasikumar
 
 ## Conclusion ##
 
