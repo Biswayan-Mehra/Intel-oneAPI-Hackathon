@@ -13,8 +13,7 @@ The microcontroller software will be optimized for performance using Intel's one
 
 The code used to develop the software interface and to control the prosthetic arm is shared above in the repository.
 
-
-![oneAPI-base-toolkit-3d-greybkgrnd jpg rendition intel web 480 270 (Custom)](https://user-images.githubusercontent.com/91715372/226917197-3cd4f368-29aa-4010-b464-1b2c5ab6ae28.jpg)![download (Custom)](https://user-images.githubusercontent.com/91715372/226917422-baa55962-5873-4730-bcd7-1b26d3f4713f.png)![RaspberryPiTA (Small) (Custom)](https://user-images.githubusercontent.com/91715372/226916739-1e1444c9-3542-4699-a523-528eabb5d939.jpeg)
+![downloadprosthetic](https://user-images.githubusercontent.com/91715372/226987854-5a28016e-ddc6-4ae2-8f5e-f74eafb8defe.jpeg)![download (Custom)](https://user-images.githubusercontent.com/91715372/226917422-baa55962-5873-4730-bcd7-1b26d3f4713f.png)![RaspberryPiTA (Small) (Custom)](https://user-images.githubusercontent.com/91715372/226916739-1e1444c9-3542-4699-a523-528eabb5d939.jpeg)
 
 
 ## Prerequisites ##
