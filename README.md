@@ -30,8 +30,17 @@ In conclusion, building a prosthetic arm using advanced algorithms and Intel's o
 | Jumper Wires | Content Cell |
 
 > ### SOFTWARE- ###
-software used for 3D model is [Autodesk Fusion 360](https://www.autodesk.in/).
+- software used for 3D model is [Autodesk Fusion 360](https://www.autodesk.in/).
+- software used for Sclicing is [Creality Sclicer](https://www.creality.com/).
+- OS on the raspberry pi [Raspbian OS](https://www.raspberrypi.com/).
+- packages and modules imported from [Intel OneAPI Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/).
 
-software used for Sclicing is [Creality Sclicer](https://www.creality.com/).
+## Working ##
+
+The prosthetic arm works on the signals that are transmitted from the user. The signals are then processed and converted into pulses by the raspberry pi for the servos to move accordingly. 
+There are a total of 5 motors to control the fingers that are made to work in a systematic manner to perform actions that can be done by a normal human hand.
+
+[image github.pdf](https://github.com/Biswayan-Mehra/Intel-oneAPI-Hackathon/files/11041317/image.github.pdf)
+
 
 
